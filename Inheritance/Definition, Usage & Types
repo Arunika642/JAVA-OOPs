@@ -1,0 +1,10 @@
+Q1- What is Inheritance in java?
+-> Inheritance is an OOP concept that allows the subclass to inherit the properties of the superclass.
+-> It follows IS A Relationship : Unidirectional - Child class can inherit properties of parent class but not vice versa.
+                                : Code reusability
+                                : Implementation through extends keyword.
+
+Q2- Types of Inheritance in Java ?
+1- Single / Simple Inheritance - One class's properties are inherited by other class.
+2- Multilevel : Class A is inherited by class B which is further inherited by class C.
+3- Multiple : One class is 
